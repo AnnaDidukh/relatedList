@@ -1,0 +1,96 @@
+{
+  "status": 0,
+  "result": [
+    {
+      "createdById": "005090000028D5dAAE",
+      "createdByName": "Anna Didukh",
+      "createdDate": "2020-12-11T10:34:42.000Z",
+      "fileName": "lwc/relatedListNewEditPopup",
+      "fullName": "relatedListNewEditPopup",
+      "id": "0Rb09000000oZIeCAM",
+      "lastModifiedById": "005090000028D5dAAE",
+      "lastModifiedByName": "Anna Didukh",
+      "lastModifiedDate": "2020-12-11T11:39:27.000Z",
+      "manageableState": "unmanaged",
+      "type": "LightningComponentBundle"
+    },
+    {
+      "createdById": "005090000028D5dAAE",
+      "createdByName": "Anna Didukh",
+      "createdDate": "2020-12-11T10:34:42.000Z",
+      "fileName": "lwc/modal",
+      "fullName": "modal",
+      "id": "0Rb09000000oZIbCAM",
+      "lastModifiedById": "005090000028D5dAAE",
+      "lastModifiedByName": "Anna Didukh",
+      "lastModifiedDate": "2020-12-11T11:39:27.000Z",
+      "manageableState": "unmanaged",
+      "type": "LightningComponentBundle"
+    },
+    {
+      "createdById": "005090000028D5dAAE",
+      "createdByName": "Anna Didukh",
+      "createdDate": "2020-12-11T23:03:49.000Z",
+      "fileName": "lwc/newClick",
+      "fullName": "newClick",
+      "id": "0Rb09000000oZTqCAM",
+      "lastModifiedById": "005090000028D5dAAE",
+      "lastModifiedByName": "Anna Didukh",
+      "lastModifiedDate": "2020-12-14T16:56:38.000Z",
+      "manageableState": "unmanaged",
+      "type": "LightningComponentBundle"
+    },
+    {
+      "createdById": "005090000028D5dAAE",
+      "createdByName": "Anna Didukh",
+      "createdDate": "2020-12-11T10:34:42.000Z",
+      "fileName": "lwc/relatedList",
+      "fullName": "relatedList",
+      "id": "0Rb09000000oZIcCAM",
+      "lastModifiedById": "005090000028D5dAAE",
+      "lastModifiedByName": "Anna Didukh",
+      "lastModifiedDate": "2020-12-11T11:39:27.000Z",
+      "manageableState": "unmanaged",
+      "type": "LightningComponentBundle"
+    },
+    {
+      "createdById": "005090000028D5dAAE",
+      "createdByName": "Anna Didukh",
+      "createdDate": "2020-12-11T10:34:42.000Z",
+      "fileName": "lwc/accountPage",
+      "fullName": "accountPage",
+      "id": "0Rb09000000oZIaCAM",
+      "lastModifiedById": "005090000028D5dAAE",
+      "lastModifiedByName": "Anna Didukh",
+      "lastModifiedDate": "2020-12-11T11:39:27.000Z",
+      "manageableState": "unmanaged",
+      "type": "LightningComponentBundle"
+    },
+    {
+      "createdById": "005090000028D5dAAE",
+      "createdByName": "Anna Didukh",
+      "createdDate": "2020-12-11T10:34:42.000Z",
+      "fileName": "lwc/relatedListDeletePopup",
+      "fullName": "relatedListDeletePopup",
+      "id": "0Rb09000000oZIdCAM",
+      "lastModifiedById": "005090000028D5dAAE",
+      "lastModifiedByName": "Anna Didukh",
+      "lastModifiedDate": "2020-12-11T11:39:27.000Z",
+      "manageableState": "unmanaged",
+      "type": "LightningComponentBundle"
+    },
+    {
+      "createdById": "005090000028D5dAAE",
+      "createdByName": "Anna Didukh",
+      "createdDate": "2020-12-11T07:49:19.000Z",
+      "fileName": "lwc/customerReport",
+      "fullName": "customerReport",
+      "id": "0Rb09000000oZAHCA2",
+      "lastModifiedById": "005090000028D5dAAE",
+      "lastModifiedByName": "Anna Didukh",
+      "lastModifiedDate": "2020-12-11T10:01:36.000Z",
+      "manageableState": "unmanaged",
+      "type": "LightningComponentBundle"
+    }
+  ]
+}
